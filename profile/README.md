@@ -52,7 +52,7 @@ Listez le(s) auteur(s) du projet ici !
 * **Wassim Ben Romdhane** [Dedpy](https://github.com/Dedpy)
 * **Khaled Ben Ammar** [Khaled](https://github.com/Dedpy)
 * **Marwen Yakoubi** [Marwen](https://github.com/Dedpy)
-* **Mohamed Said ** [Said](https://github.com/Dedpy)
+* **Mohamed Said** [Said](https://github.com/Dedpy)
 * **Asma Ben Brahim** [Asma](https://github.com/Dedpy)
 * **Bayrem Hamdi** [Bayrem](https://github.com/Dedpy)
 
