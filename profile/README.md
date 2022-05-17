@@ -66,7 +66,7 @@ If you want to contribute, Please feel free to contact us at [KoolMatch Email](m
 **Dernière version :** 2.0
 
 ## Auteurs
-Listez le(s) auteur(s) du projet ici !
+
 * **Wassim Ben Romdhane** [Dedpy](https://github.com/Dedpy)
 * **Khaled Ben Ammar** [Khaled](https://github.com/khaled496)
 * **Marwen Yakoubi** [Marwen](https://github.com/marw19)
