@@ -2,7 +2,7 @@
 _(Cross-platform Dating App 💑)_
 
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000)
-[![License: ESPRIT](https://img.shields.io/badge/License-ESPRIT-yellow.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
 <p align="center">
   <img width="600" height="400" src="https://i.ibb.co/dpwV5Cq/p1.png">
